@@ -24,6 +24,9 @@ image:
         file: John_George_Brown_-_Mintiendo_(1885).jpg
     width: 1016
     height: 1280
+author:
+    name: 'Daniel Espínola Rodríguez'
+    bio: 'Licenciado en Análisis de Sistemas de la UCA, Gerente de Seguridad Lógica y Prevención del Fraude en BBVA Paraguay, anteriormente Líder de Proyectos y Gerente de Desarrollo de Aplicaciones en otras entidades bancarias.'
 ---
 
 Sin dudas, estamos en un momento de evolución tecnológica sin precedentes. Temas como Inteligencia Artificial o Big Data, que algunas décadas atrás parecían sólo fantasía, hoy día están tan desarrollados que varias industrias los están incorporando en sus procesos de negocio y de hecho potencian su competitividad.
