@@ -1,5 +1,20 @@
 ---
 title: 'Seguridad digital'
+published: true
+date: '08-08-2017 12:50'
+publish_date: '08-08-2017 12:50'
+metadata:
+    Categoría: Informática
+taxonomy:
+    category:
+        - blog
+        - Informática
+    tag:
+        - 'seguridad digital'
+        - adolescentes
+        - predadores
+        - 'contenido digital'
+        - privacidad
 image:
     summary:
         enabled: '1'
