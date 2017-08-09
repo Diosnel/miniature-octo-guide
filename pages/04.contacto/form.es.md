@@ -4,30 +4,26 @@ form:
     name: contact
     fields:
         -
-            name: name
-            label: Name
-            placeholder: 'Enter your name'
+            name: nombre
+            placeholder: Nombre
             autocomplete: 'on'
             type: text
             validate:
                 required: true
         -
             name: email
-            label: Email
-            placeholder: 'Enter your email address'
+            placeholder: Email
             type: email
             validate:
                 required: true
         -
             name: message
-            label: Message
-            placeholder: 'Enter your message'
+            placeholder: Mensaje
             type: textarea
             validate:
                 required: true
         -
             name: g-recaptcha-response
-            label: Captcha
             type: captcha
             recaptcha_site_key: ENTER_YOUR_CAPTCHA_SITE_KEY
             recaptcha_not_validated: 'Captcha not valid!'
@@ -36,10 +32,10 @@ form:
     buttons:
         -
             type: submit
-            value: Submit
+            value: Enviar
         -
             type: reset
-            value: Reset
+            value: Cancelar
     process:
         -
             captcha:
@@ -55,7 +51,7 @@ form:
                 extension: txt
                 body: '{% include ''forms/data.txt.twig'' %}'
         -
-            message: 'Thank you for getting in touch!'
+            message: 'Gracias por su mensaje'
         -
             display: thankyou
 ---
