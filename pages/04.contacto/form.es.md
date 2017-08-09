@@ -1,5 +1,6 @@
 ---
 title: Contacto
+published: true
 form:
     name: contact
     fields:
