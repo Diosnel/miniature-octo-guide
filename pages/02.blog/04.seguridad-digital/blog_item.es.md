@@ -18,7 +18,7 @@ La tecnología pone a nuestra disposición muchas herramientas y nos facilita la
 
 Este artículo pretende simplemente poner sobre la mesa ciertos aspectos de cuidado, y tenerlos presente nos permite hacer el mejor uso y evitarnos situaciones incómodas.
 
-### RESUMIENDO:
+#### RESUMIENDO:
 
 + cuidemos la navegación de nuestros chicos
 + protejamos nuestras computadoras personales y teléfonos móviles
