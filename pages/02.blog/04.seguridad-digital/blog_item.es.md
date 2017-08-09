@@ -1,8 +1,17 @@
 ---
 title: 'Seguridad digital'
+image:
+    summary:
+        enabled: '1'
+        file: John_George_Brown_-_Mintiendo_(1885).jpg
+    text:
+        enabled: '1'
+        file: John_George_Brown_-_Mintiendo_(1885).jpg
 ---
 
 Sin dudas, estamos en un momento de evolución tecnológica sin precedentes. Temas como Inteligencia Artificial o Big Data, que algunas décadas atrás parecían sólo fantasía, hoy día están tan desarrollados que varias industrias los están incorporando en sus procesos de negocio y de hecho potencian su competitividad.
+
+===
 
 Es tal la evolución que ha afectado de manera trascendente la forma de hacer de ciertas cosas, ha discontinuado algunos productos e incluso acecha ciertas industrias. Por otro lado, se accede a la tecnología a edades cada vez más tempranas.
 
