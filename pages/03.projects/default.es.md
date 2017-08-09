@@ -1,5 +1,6 @@
 ---
 title: Projects
+published: false
 child_type: default
 ---
 
